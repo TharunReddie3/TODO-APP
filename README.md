@@ -39,13 +39,14 @@ Confirm the deletion when prompted to remove the task permanently.
 
 
 ## Screenshots
+![Screenshot_20240110_122635](https://github.com/TharunReddie3/TODO-APP/assets/106477782/c16ecbe4-cbc6-4697-90ce-425a26f4437d)
+![Screenshot_20240110_122647](https://github.com/TharunReddie3/TODO-APP/assets/106477782/ba238589-5ccd-4f0d-a96c-2ec5586863b8)
+![Screenshot_20240110_122653](https://github.com/TharunReddie3/TODO-APP/assets/106477782/7d004160-8402-4721-8e08-e2c7c8010c8d)
+![Screenshot_20240110_123006](https://github.com/TharunReddie3/TODO-APP/assets/106477782/abd8a962-14ff-4add-8b9b-d8b71a62130d)
+![Screenshot_20240110_123020](https://github.com/TharunReddie3/TODO-APP/assets/106477782/2d8acbb3-cbb4-4134-aded-2c1d7426d580)
+![Screenshot_20240110_123024](https://github.com/TharunReddie3/TODO-APP/assets/106477782/6e5ac7b8-da88-492b-9409-4ae8f8612dc9)
 
-![Screenshot_20240110_122635](https://github.com/TharunReddie3/Todo_App/assets/106477782/d58924a3-72ce-4e8a-bb82-2a676034f3ce)
-![Screenshot_20240110_122647](https://github.com/TharunReddie3/Todo_App/assets/106477782/2edf4139-3a8d-4257-b3b6-526bb576a322)
-![Screenshot_20240110_122653](https://github.com/TharunReddie3/Todo_App/assets/106477782/8b77eea5-fde8-4048-83ac-3930de798874)
-![Screenshot_20240110_123006](https://github.com/TharunReddie3/Todo_App/assets/106477782/99860b63-2797-4fb5-9860-f7323f3b69a4)
-![Screenshot_20240110_123020](https://github.com/TharunReddie3/Todo_App/assets/106477782/36e5bca3-d6f3-4706-820d-123719ac11a8)
-![Screenshot_20240110_123024](https://github.com/TharunReddie3/Todo_App/assets/106477782/dc33703a-10a8-4107-a1b4-6a3e2655ff5f)
+
 
 
 
